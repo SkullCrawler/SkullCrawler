@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [project_web3.0](https://github.com/skullcrawler/project_web3.0)
 
-- 💬 Ask me about **Server** , **Node**, **Express**, **MongoDB**
+- 💬 Ask me about **APIs**, **Node**, **Express**, **MongoDB**
 
 - ⚡ Fun fact **Coders, conquer the world (almost): Studies suggest that around 70% of coding jobs have nothing to do with technology itself! They might involve fields like finance, healthcare, or even fashion.**
 
