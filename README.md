@@ -1,23 +1,26 @@
 <h1 align="center">Hi 👋, I'm Rayyan Waseem</h1>
-<h3 align="center">I'm a code whisperer, fueled by a passion for crafting robust backend solutions with Node.js. I specialize in building scalable applications and collaborating closely with teams to bring ideas to fruition.</h3>
+<h3 align="center">I'm a blockchain enthusiast and full-stack decentralized app developer, passionate about building resilient and secure decentralized applications. I specialize in leveraging blockchain technologies such as Ethereum and Polkadot, along with web development frameworks to create decentralized solutions that empower users and preserve data integrity.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=skullcrawler&label=Profile%20views&color=0e75b6&style=flat" alt="skullcrawler" /> </p>
 
 - 🔭 I’m currently working on [project_web3.0](https://github.com/skullcrawler/project_web3.0)
 
-- 💬 Ask me about **APIs**, **Node**, **Express**, **MongoDB**
+- 💬 Ask me about **Decentralized Applications (dApps)**
 
-- ⚡ Fun fact **Coders, conquer the world (almost): Studies suggest that around 70% of coding jobs have nothing to do with technology itself! They might involve fields like finance, healthcare, or even fashion.**
+- ⚡ Fun fact: **Blockchain technology has the potential to revolutionize industries beyond finance, including healthcare, supply chain, and even voting systems!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/mrayyanwaseem" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="skullcrawler" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/rayyawaseem" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="skullcrawler" height="30" width="40" /></a>
 <a href="https://instagram.com/developerrayyan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="skullcrawler" height="30" width="40" /></a>
+<a href="https://reddit.com/user/skulcrawler" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/reddit.svg" alt="skullcrawler" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
+<a href="https://developers.google.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/google/google-original.svg" alt="Google Developer" width="40" height="40"/> </a>
+<a href="https://studentpartners.microsoft.com/en-us" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft/microsoft-icon.svg" alt="Microsoft Student Developer Tools" width="40" height="40"/> </a>
 <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> 
 <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> 
 <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> 
@@ -36,6 +39,12 @@
 <a href="https://eslint.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/eslint/eslint-original.svg" alt="ESLint" width="40" height="40"/> </a>
 <a href="https://yarnpkg.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/yarn/yarn-original-wordmark.svg" alt="Yarn" width="40" height="40"/> </a>
 <a href="https://ionicframework.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ionic/ionic-original.svg" alt="Ionic" width="40" height="40"/> </a>
+<a href="https://ethereum.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ethereum/ethereum-original.svg" alt="Ethereum" width="40" height="40"/> </a>
+<a href="https://www.polkadot.network/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/polkadot/polkadot-original.svg" alt="Polkadot" width="40" height="40"/> </a>
+<a href="https://metamask.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/metamaskio/metamaskio-icon.svg" alt="MetaMask" width="40" height="40"/> </a>
+<a href="https://hardhat.org/" target="_blank" rel="noreferrer"> <img src="https://hardhat.org/hardhat-logo.svg" alt="Hardhat" width="40" height="40"/> </a>
+<a href="https://www.tron.network/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tron/tron-icon.svg" alt="Tron" width="40" height="40"/> </a>
+<a href="https://docs.binance.org/smart-chain/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/binance/binance-original.svg" alt="Binance API" width="40" height="40"/> </a>
 </p>
 
 <h3 align="left">Support:</h3>
