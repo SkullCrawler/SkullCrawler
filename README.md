@@ -1,6 +1,8 @@
 <h1 align="center">Hi , I'm Rayyan </h1>
 <h3 align="center">I'm a developer. And I write software thingies. Line 3 </h3> 
 
+#### I user Linux btw
+
                                                                            
 ##### Random link to my profile views (idk seems kinda cool) 👍
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=skullcrawler&label=Profile%20views&color=0e75b6&style=flat" alt="skullcrawler" /> </p>
@@ -9,12 +11,12 @@
 
 - {CoolEmogi1} I’m currently working on [some_cool_project](https://github.com/skullcrawler/project_web3.0)
 
-- {CoolEmogi2} Ask me about **What was I good at Again?**
+- {CoolEmogi2} Ask me about ***computer stuff***
 
-- {CoolEmogi2} Fun fact: **(Ask ChatGPT about a cool Node.Js Developer fact)**
+- {CoolEmogi2} Fun fact: ***cool Node.Js Developer fact***
 
 
-<h3 align="left">(Insert lanquages here)</h3>
+<h3 align="left">*Insert lanquages here*</h3>
 <p align="left">
 <a href="https://developers.google.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/google/google-original.svg" alt="Google Developer" width="40" height="40"/> </a>
 <a href="https://studentpartners.microsoft.com/en-us" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft/microsoft-icon.svg" alt="Microsoft Student Developer Tools" width="40" height="40"/> </a>
@@ -37,6 +39,6 @@
 
 #### Oh, here, have a graph thingy:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=skullcrawler&layout=donut&theme=panda&count_private=true&langs_count=16)](https://skullcrawler.github.io)
+#### when did I use hack 🤔
 
-
-#### I user LinuxMint btw
+#### I user Linux btw
