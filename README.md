@@ -1,12 +1,11 @@
 <h1 align="center">Hi , I'm Rayyan </h1>
 <h3 align="center">I'm a developer. And I write software thingies. Line 3 </h3> 
 
-
-##### ᵂʰᵃᵗ
                                                                            
 ##### Random link to my profile views (idk seems kinda cool) 👍
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=skullcrawler&label=Profile%20views&color=0e75b6&style=flat" alt="skullcrawler" /> </p>
+
+##### ᵂʰᵃᵗ
 
 - {CoolEmogi1} I’m currently working on [some_cool_project](https://github.com/skullcrawler/project_web3.0)
 
