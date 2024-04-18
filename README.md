@@ -47,5 +47,5 @@
 <a href="https://docs.binance.org/smart-chain/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/binance/binance-original.svg" alt="Binance API" width="40" height="40"/> </a>
 </p>
 
-<h3 align="left">Support:</h3>
-<p><a href="https://www.buymeacoffee.com/skullcrawler"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="skullcrawler" /></a><a href="https://ko-fi.com/skullcrawler"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="skullcrawler" /></a></p><br><br>
+#### Oh, here, have a graph thing:
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=skullcrawler&layout=donut&theme=panda&count_private=true&langs_count=16)](https://skullcrawler.github.io)
