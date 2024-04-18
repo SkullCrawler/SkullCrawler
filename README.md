@@ -1,5 +1,7 @@
-<h1 align="center">Hi , I'm Rayyan/h1>
-<h3 align="center">I'm a developer. And I write software thingies. Line 3< ᵂʰᵃᵗ
+<h1 align="center">Hi , I'm Rayyan </h1>
+<h3 align="center">I'm a developer. And I write software thingies. Line 3 </h3> 
+
+
 ##### ᵂʰᵃᵗ
                                                                            
 ##### Random link to my profile views (idk seems kinda cool) 👍
