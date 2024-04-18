@@ -13,7 +13,7 @@
 - {CoolEmogi2} Fun fact: **(Ask ChatGPT about a cool Node.Js Developer fact)**
 
 <h3 align="left">Online presence</h3>
-### ˢᵉˡᶠ ʳᵉᵐⁱⁿᵈᵉʳ ᵗᵒ ᵗᵘʳⁿ ᵒᶠ ᵃˡˡ ⁿᵒᵗⁱᶠⁱᵃᶜᵗⁱᵒⁿˢ
+### ˢᵉˡᶠ ʳᵉᵐᶦⁿᶦᵈᵉʳ ᵗᵒ ᵗᵘʳⁿ ᵒᶠᶠ ⁿᵒᵗᶦᶠᶦᶜᵃᵗᶦᵒⁿˢ
 <p align="left">
 <a href="https://twitter.com/mrayyanwaseem" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="skullcrawler" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/rayyawaseem" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="skullcrawler" height="30" width="40" /></a>
@@ -49,4 +49,4 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=skullcrawler&layout=donut&theme=panda&count_private=true&langs_count=16)](https://skullcrawler.github.io)
 
 
-#### ⁱ ᵘˢᵉ ˡⁱⁿᵘˣ ᵐⁱⁿᵗ ᵇᵗʷ
+#### ᴵ ᵘˢᵉ ˡᶦⁿᵘˣ ᵇᵗʷ
