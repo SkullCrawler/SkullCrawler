@@ -1,7 +1,7 @@
 <h1 align="center">Hi , I'm Rayyan </h1>
 <h3 align="center">I'm a developer. And I write software thingies. Line 3 </h3> 
 
-#### I user Linux btw
+#### I use Linux btw
 
                                                                            
 ##### Random link to my profile views (idk seems kinda cool) 👍
@@ -41,4 +41,4 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=skullcrawler&layout=donut&theme=panda&count_private=true&langs_count=16)](https://skullcrawler.github.io)
 #### when did I use hack 🤔
 
-#### I user Linux btw
+#### I use Linux btw
