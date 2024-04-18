@@ -16,7 +16,7 @@
 - {CoolEmogi2} Fun fact: ***cool Node.Js Developer fact***
 
 
-<h3 align="left">*Insert lanquages/tools/Other_Stuff here*</h3>
+<h3 align="left">*Insert lanquages/tools/other_stuff here*</h3>
 <p align="left">
 <a href="https://developers.google.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/google/google-original.svg" alt="Google Developer" width="40" height="40"/> </a>
 <a href="https://studentpartners.microsoft.com/en-us" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft/microsoft-icon.svg" alt="Microsoft Student Developer Tools" width="40" height="40"/> </a>
