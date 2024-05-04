@@ -9,7 +9,7 @@
 
 ##### ᵂʰᵃᵗ
 
-- {CoolEmogi1} I’m currently working on [some_cool_project](https://github.com/skullcrawler/project_web3.0)
+- {CoolEmogi1} I’m currently working on [some_cool_project](https://github.com/skullcrawler/deviddy_backend)
 
 - {CoolEmogi2} Ask me about ***computer stuff***
 
