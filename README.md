@@ -11,12 +11,12 @@
 
 - {CoolEmogi1} I’m currently working on [some_cool_project](https://github.com/skullcrawler/deviddy_backend)
 
-- {CoolEmogi2} Ask me about ***computer stuff***
+- {CoolEmogi2} Ask me about ***Computer Stuff***
 
-- {CoolEmogi2} Fun fact: ***cool Node.Js Developer fact***
+- {CoolEmogi2} Fun fact: ***Cool Node.Js Developer fact***
 
 
-<h3 align="left">*Insert lanquages/tools/other_stuff here*</h3>
+<h3 align="left">*Insert languages/tools/other_stuff here*</h3>
 <p align="left">
 <a href="https://developers.google.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/google/google-original.svg" alt="Google Developer" width="40" height="40"/> </a>
 <a href="https://studentpartners.microsoft.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft/microsoft-icon.svg" alt="Microsoft Student Developer Tools" width="40" height="40"/> </a>
@@ -41,6 +41,4 @@
 #### Graph thingy 2:
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=skullcrawler&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph" />
 
-#### when did I use hack 🤔
-
-#### I use Linux btw
+#### ~ ' ***Writing Testcases for you code is like doubting your own coding ablilities.It's a sign of weakness. Real men test in production*** ' ~
